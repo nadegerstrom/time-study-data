@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "PROJECT #1",
+      "jobNumber": "1608",
+      "loaders": ["CAT 992G", "CAT 992K"],
+      "trucks": ["CAT 777D", "KOM 785D"]
+    },
+    {
+      "id": "2",
+      "name": "PROJECT #2",
+      "jobNumber": "2204",
+      "loaders": ["PC-400"],
+      "trucks": ["TRUCK #1", "TRUCK #2"]
+    }
+  ]
+}
