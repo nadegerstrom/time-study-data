@@ -25,6 +25,23 @@
         "TRUCK #1",
         "TRUCK #2"
       ]
+    },
+    {
+      "id": "1767914522884",
+      "name": "GOLD BAR",
+      "jobNumber": "2505",
+      "loaders": [
+        "CAT 992D",
+        "CAT 992G",
+        "CAT 992K",
+        "CAT 988B",
+        "CAT 988C"
+      ],
+      "trucks": [
+        "CAT 777D",
+        "CAT 777C",
+        "KOM 785D"
+      ]
     }
   ]
 }
