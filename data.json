@@ -4,15 +4,31 @@
       "id": "1",
       "name": "PROJECT #1",
       "jobNumber": "1608",
-      "loaders": ["CAT 992G", "CAT 992K"],
-      "trucks": ["CAT 777D", "KOM 785D"]
+      "loaders": [
+        "CAT 992G",
+        "CAT 988K",
+        "CAT 992D",
+        "CAT 992K",
+        "CAT 988B"
+      ],
+      "trucks": [
+        "CAT 777D",
+        "KOM 785D",
+        "CAT 777C",
+        "TRUCK #1"
+      ]
     },
     {
       "id": "2",
       "name": "PROJECT #2",
       "jobNumber": "2204",
-      "loaders": ["PC-400"],
-      "trucks": ["TRUCK #1", "TRUCK #2"]
+      "loaders": [
+        "PC-400"
+      ],
+      "trucks": [
+        "TRUCK #1",
+        "TRUCK #2"
+      ]
     }
   ]
 }
