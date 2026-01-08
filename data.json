@@ -5,17 +5,12 @@
       "name": "PROJECT #1",
       "jobNumber": "1608",
       "loaders": [
-        "CAT 992G",
         "CAT 988K",
-        "CAT 992D",
-        "CAT 992K",
-        "CAT 988B"
+        "CAT 992D"
       ],
       "trucks": [
         "CAT 777D",
-        "KOM 785D",
-        "CAT 777C",
-        "TRUCK #1"
+        "CAT 777C"
       ]
     },
     {
