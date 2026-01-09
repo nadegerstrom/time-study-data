@@ -1,21 +1,21 @@
 {
   "studies": [
     {
-      "timestamp": 1767993808901,
+      "timestamp": 1767992717576,
       "projectId": "1",
       "projectName": "PROJECT #1",
       "jobNumber": "1608",
-      "loader": "CAT 992G",
+      "loader": "CAT 992D",
       "trucks": [
         "CAT 777C"
       ],
-      "supervisor": "john",
+      "supervisor": "Clint",
       "loads": [
         {
           "truck": "CAT 777C",
           "loadTime": 11,
           "passCount": 3,
-          "hangTime": 0
+          "hangTime": 1
         }
       ],
       "delays": [],
