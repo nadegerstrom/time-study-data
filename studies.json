@@ -1,69 +1,28 @@
 {
   "studies": [
     {
-      "timestamp": 1767984029446,
-      "projectId": "1767914522884",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "loader": "CAT 988C",
+      "timestamp": 1767992717576,
+      "projectId": "1",
+      "projectName": "PROJECT #1",
+      "jobNumber": "1608",
+      "loader": "CAT 992D",
       "trucks": [
-        "KOM 785D"
-      ],
-      "supervisor": "Hgfg",
-      "loads": [
-        {
-          "truck": "KOM 785D",
-          "loadTime": 6,
-          "passCount": 4,
-          "hangTime": 35
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 50,
-      "totalDelayTime": 0,
-      "id": 7
-    },
-    {
-      "timestamp": 1767983986119,
-      "projectId": "1767914522884",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "loader": "CAT 988C",
-      "trucks": [
-        "KOM 785D"
-      ],
-      "supervisor": "Hjgg",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 7,
-      "totalDelayTime": 0,
-      "id": 6
-    },
-    {
-      "timestamp": 1767981401825,
-      "projectId": "1767914522884",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "loader": "CAT 988B",
-      "trucks": [
-        "KOM 785D"
+        "CAT 777C"
       ],
       "supervisor": "Clint",
       "loads": [
         {
-          "truck": "KOM 785D",
-          "loadTime": 32,
+          "truck": "CAT 777C",
+          "loadTime": 11,
           "passCount": 3,
           "hangTime": 1
         }
       ],
       "delays": [],
       "notes": "",
-      "totalStudyTime": 66,
+      "totalStudyTime": 21,
       "totalDelayTime": 0,
-      "id": 5
+      "id": 1
     }
   ]
 }
