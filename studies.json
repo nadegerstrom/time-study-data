@@ -1,6 +1,30 @@
 {
   "studies": [
     {
+      "timestamp": 1767984029446,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 988C",
+      "trucks": [
+        "KOM 785D"
+      ],
+      "supervisor": "Hgfg",
+      "loads": [
+        {
+          "truck": "KOM 785D",
+          "loadTime": 6,
+          "passCount": 4,
+          "hangTime": 35
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 50,
+      "totalDelayTime": 0,
+      "id": 7
+    },
+    {
       "timestamp": 1767983986119,
       "projectId": "1767914522884",
       "projectName": "GOLD BAR",
