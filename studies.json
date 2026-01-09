@@ -1,1 +1,45 @@
-{ "studies": [] }
+{
+  "studies": [
+    {
+      "timestamp": 1767983986119,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 988C",
+      "trucks": [
+        "KOM 785D"
+      ],
+      "supervisor": "Hjgg",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 7,
+      "totalDelayTime": 0,
+      "id": 6
+    },
+    {
+      "timestamp": 1767981401825,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 988B",
+      "trucks": [
+        "KOM 785D"
+      ],
+      "supervisor": "Clint",
+      "loads": [
+        {
+          "truck": "KOM 785D",
+          "loadTime": 32,
+          "passCount": 3,
+          "hangTime": 1
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 66,
+      "totalDelayTime": 0,
+      "id": 5
+    }
+  ]
+}
