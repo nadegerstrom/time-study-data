@@ -422,6 +422,67 @@
       "totalStudyTime": 20,
       "totalDelayTime": 0,
       "id": 3
+    },
+    {
+      "timestamp": 1768253848867,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 988B",
+      "trucks": [
+        "CAT 777-7",
+        "CAT 777G"
+      ],
+      "supervisor": "test3",
+      "loads": [
+        {
+          "truck": "CAT 777D",
+          "loadTime": 17,
+          "passCount": 4,
+          "hangTime": 28
+        },
+        {
+          "truck": "CAT 777G",
+          "loadTime": 5,
+          "passCount": 4,
+          "hangTime": 1
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 113,
+      "totalDelayTime": 0,
+      "id": 8
+    },
+    {
+      "timestamp": 1768253809326,
+      "projectId": "1767994062470",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "loader": "CAT 992D",
+      "trucks": [
+        "CAT 777D"
+      ],
+      "supervisor": "test2",
+      "loads": [
+        {
+          "truck": "CAT 777D",
+          "loadTime": 21,
+          "passCount": 4,
+          "hangTime": 8
+        },
+        {
+          "truck": "CAT 777D",
+          "loadTime": 20,
+          "passCount": 4,
+          "hangTime": 2
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 73,
+      "totalDelayTime": 0,
+      "id": 7
     }
   ]
 }
