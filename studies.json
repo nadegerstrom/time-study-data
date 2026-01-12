@@ -1,30 +1,6 @@
 {
   "studies": [
     {
-      "timestamp": 1767993808901,
-      "projectId": "1",
-      "projectName": "PROJECT #1",
-      "jobNumber": "1608",
-      "loader": "CAT 992G",
-      "trucks": [
-        "CAT 777C"
-      ],
-      "supervisor": "john",
-      "loads": [
-        {
-          "truck": "CAT 777C",
-          "loadTime": 11,
-          "passCount": 3,
-          "hangTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 21,
-      "totalDelayTime": 0,
-      "id": 1
-    },
-    {
       "timestamp": 1767995095238,
       "projectId": "1767914522884",
       "projectName": "GOLD BAR",
