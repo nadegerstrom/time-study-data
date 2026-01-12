@@ -25,30 +25,6 @@
       "id": 2
     },
     {
-      "timestamp": 1768252975695,
-      "projectId": "1",
-      "projectName": "PROJECT #1",
-      "jobNumber": "1608",
-      "loader": "CAT 988K",
-      "trucks": [
-        "KOM 785D"
-      ],
-      "supervisor": "dfbdfb",
-      "loads": [
-        {
-          "truck": "KOM 785D",
-          "loadTime": 3,
-          "passCount": 4,
-          "hangTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 8,
-      "totalDelayTime": 0,
-      "id": 1
-    },
-    {
       "timestamp": 1768251788788,
       "projectId": "2",
       "projectName": "PROJECT #2",
