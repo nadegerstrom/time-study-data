@@ -86,23 +86,6 @@
       "id": 10
     },
     {
-      "timestamp": 1768255775308,
-      "projectId": "1767914522884",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "loader": "CAT 992G",
-      "trucks": [
-        "CAT 777C"
-      ],
-      "supervisor": "Jgfg",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 19,
-      "totalDelayTime": 0,
-      "id": 12
-    },
-    {
       "timestamp": 1768255729651,
       "projectId": "1767994062470",
       "projectName": "RAIN",
