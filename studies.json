@@ -127,30 +127,6 @@
       "id": 2
     },
     {
-      "timestamp": 1767992717576,
-      "projectId": "1",
-      "projectName": "PROJECT #1",
-      "jobNumber": "1608",
-      "loader": "CAT 992D",
-      "trucks": [
-        "CAT 777C"
-      ],
-      "supervisor": "Clint",
-      "loads": [
-        {
-          "truck": "CAT 777C",
-          "loadTime": 11,
-          "passCount": 3,
-          "hangTime": 1
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 21,
-      "totalDelayTime": 0,
-      "id": 1
-    },
-    {
       "timestamp": 1768252975695,
       "projectId": "1",
       "projectName": "PROJECT #1",
