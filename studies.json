@@ -127,36 +127,6 @@
       "totalStudyTime": 1256,
       "totalDelayTime": 13,
       "id": 6
-    },
-    {
-      "timestamp": 1768253809326,
-      "projectId": "1767994062470",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "loader": "CAT 992D",
-      "trucks": [
-        "CAT 777D"
-      ],
-      "supervisor": "test2",
-      "loads": [
-        {
-          "truck": "CAT 777D",
-          "loadTime": 21,
-          "passCount": 4,
-          "hangTime": 8
-        },
-        {
-          "truck": "CAT 777D",
-          "loadTime": 20,
-          "passCount": 4,
-          "hangTime": 2
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 73,
-      "totalDelayTime": 0,
-      "id": 7
     }
   ]
 }
