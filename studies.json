@@ -1,28 +1,3 @@
 {
-  "studies": [
-    {
-      "timestamp": 1768251788788,
-      "projectId": "2",
-      "projectName": "PROJECT #2",
-      "jobNumber": "2204",
-      "loader": "PC-400",
-      "trucks": [
-        "TRUCK #2"
-      ],
-      "supervisor": "bob",
-      "loads": [
-        {
-          "truck": "TRUCK #2",
-          "loadTime": 3,
-          "passCount": 4,
-          "hangTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 7,
-      "totalDelayTime": 0,
-      "id": 5
-    }
-  ]
+  "studies": []
 }
