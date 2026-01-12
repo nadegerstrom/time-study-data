@@ -274,30 +274,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768004391248,
-      "projectId": "1767994062470",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "loader": "CAT 992D",
-      "trucks": [
-        "CAT 777D"
-      ],
-      "supervisor": "Bob",
-      "loads": [
-        {
-          "truck": "CAT 777D",
-          "loadTime": 8,
-          "passCount": 3,
-          "hangTime": 1
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 20,
-      "totalDelayTime": 0,
-      "id": 3
-    },
-    {
       "timestamp": 1768253809326,
       "projectId": "1767994062470",
       "projectName": "RAIN",
