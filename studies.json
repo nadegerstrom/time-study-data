@@ -177,49 +177,6 @@
       "id": 5
     },
     {
-      "timestamp": 1768241420714,
-      "projectId": "1767914522884",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "loader": "CAT 992K",
-      "trucks": [
-        "CAT 777D",
-        "CAT 777C"
-      ],
-      "supervisor": "Bob",
-      "loads": [
-        {
-          "truck": "CAT 777D",
-          "loadTime": 19,
-          "passCount": 3,
-          "hangTime": 0
-        },
-        {
-          "truck": "CAT 777C",
-          "loadTime": 8,
-          "passCount": 3,
-          "hangTime": 1
-        },
-        {
-          "truck": "CAT 777D",
-          "loadTime": 9,
-          "passCount": 2,
-          "hangTime": 5
-        },
-        {
-          "truck": "CAT 777C",
-          "loadTime": 20,
-          "passCount": 3,
-          "hangTime": 5
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 86,
-      "totalDelayTime": 0,
-      "id": 4
-    },
-    {
       "timestamp": 1768253809326,
       "projectId": "1767994062470",
       "projectName": "RAIN",
