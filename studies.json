@@ -47,23 +47,6 @@
       "totalStudyTime": 21,
       "totalDelayTime": 0,
       "id": 1
-    },
-    {
-      "timestamp": 1768257241967,
-      "projectId": "1",
-      "projectName": "PROJECT #1",
-      "jobNumber": "1608",
-      "loader": "CAT 992G",
-      "trucks": [
-        "CAT 777D"
-      ],
-      "supervisor": "Hgfh",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 0,
-      "totalDelayTime": 0,
-      "id": 13
     }
   ]
 }
