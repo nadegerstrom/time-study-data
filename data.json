@@ -1,30 +1,33 @@
 {
   "projects": [
     {
-      "id": "1",
-      "name": "PROJECT #1",
-      "jobNumber": "1608",
+      "id": "1768266861993",
+      "name": "GOLD BAR",
+      "jobNumber": "2505",
       "loaders": [
+        "CAT 992D",
         "CAT 992G",
-        "CAT 988K"
+        "CAT 992K"
       ],
       "trucks": [
         "CAT 777D",
+        "CAT 777C",
         "KOM 785D"
       ]
     },
     {
-      "id": "2",
-      "name": "PROJECT #2",
-      "jobNumber": "2204",
+      "id": "1768266875275",
+      "name": "RAIN",
+      "jobNumber": "2502",
       "loaders": [
-        "PC-400",
-        "CAT 390",
-        "PC-460"
+        "CAT 992D",
+        "CAT 992G",
+        "CAT 992K"
       ],
       "trucks": [
-        "TRUCK #1",
-        "TRUCK #2"
+        "CAT 777D",
+        "CAT 777C",
+        "KOM 785D"
       ]
     }
   ]
