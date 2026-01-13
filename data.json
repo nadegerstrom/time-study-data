@@ -7,7 +7,10 @@
       "loaders": [
         "CAT 992D",
         "CAT 992G",
-        "CAT 992K"
+        "CAT 992K",
+        "PC-460",
+        "PC-600",
+        "PC-650"
       ],
       "trucks": [
         "CAT 777D",
@@ -23,8 +26,9 @@
         "CAT 992D",
         "CAT 992G",
         "CAT 992K",
-        "CAT 988G",
-        "CAT 988C"
+        "PC-460",
+        "PC-600",
+        "PC-650"
       ],
       "trucks": [
         "CAT 777D",
