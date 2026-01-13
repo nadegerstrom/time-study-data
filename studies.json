@@ -1,3 +1,67 @@
 {
-  "studies": []
+  "studies": [
+    {
+      "timestamp": 1768002130333,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992G",
+      "trucks": [
+        "CAT 777C"
+      ],
+      "supervisor": "G nyt x",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 3,
+      "totalDelayTime": 0,
+      "id": 3
+    },
+    {
+      "timestamp": 1768000930304,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 988B",
+      "trucks": [
+        "CAT 777-7"
+      ],
+      "supervisor": "Jon",
+      "loads": [],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 82
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 110,
+      "totalDelayTime": 82,
+      "id": 2
+    },
+    {
+      "timestamp": 1768000717220,
+      "projectId": "1767914522884",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 988B",
+      "trucks": [
+        "CAT 777-7"
+      ],
+      "supervisor": "Jon",
+      "loads": [],
+      "delays": [
+        {
+          "type": "BLASTING",
+          "note": "",
+          "time": 10
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 56,
+      "totalDelayTime": 10,
+      "id": 1
+    }
+  ]
 }
