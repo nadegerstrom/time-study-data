@@ -1,3 +1,41 @@
 {
-  "studies": []
+  "studies": [
+    {
+      "timestamp": 1768266547444,
+      "projectId": "1768257747799",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992G",
+      "trucks": [
+        "CAT 777C",
+        "KOM 785D"
+      ],
+      "supervisor": "yhu",
+      "loads": [
+        {
+          "truck": "KOM 785D",
+          "loadTime": 41,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "CAT 777C",
+          "loadTime": 6,
+          "passCount": 8,
+          "hangTime": 19
+        }
+      ],
+      "delays": [
+        {
+          "type": "BLASTING",
+          "note": "",
+          "time": 12
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 66,
+      "totalDelayTime": 12,
+      "id": 12
+    }
+  ]
 }
