@@ -1,3 +1,35 @@
 {
-  "studies": []
+  "studies": [
+    {
+      "timestamp": 1768272667293,
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992-12",
+      "trucks": [
+        "Cat 777-7",
+        "Cat 777G"
+      ],
+      "supervisor": "Clint",
+      "loads": [
+        {
+          "truck": "Cat 777G",
+          "loadTime": 34,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "Cat 777-7",
+          "loadTime": 25,
+          "passCount": 4,
+          "hangTime": 27
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 63,
+      "totalDelayTime": 0,
+      "id": 13
+    }
+  ]
 }
