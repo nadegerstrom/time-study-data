@@ -127,31 +127,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768341616547,
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "loader": "CAT 992K",
-      "trucks": [
-        "CAT 777C",
-        "KOM 785D"
-      ],
-      "supervisor": "Ghff",
-      "loads": [
-        {
-          "truck": "CAT 777C",
-          "loadTime": 7,
-          "passCount": 4,
-          "hangTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 7,
-      "totalDelayTime": 0,
-      "id": 2
-    },
-    {
       "timestamp": 1768326202429,
       "projectId": "1768266861993",
       "projectName": "GOLD BAR",
