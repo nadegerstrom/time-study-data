@@ -251,6 +251,23 @@
       "totalStudyTime": 0,
       "totalDelayTime": 0,
       "id": 1
+    },
+    {
+      "timestamp": 1768601317506,
+      "projectId": "1768266875275",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "loader": "CAT 992K",
+      "trucks": [
+        "KOM 785D"
+      ],
+      "supervisor": "Matt",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 0,
+      "totalDelayTime": 0,
+      "id": 2
     }
   ]
 }
