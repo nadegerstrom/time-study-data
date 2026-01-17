@@ -197,33 +197,6 @@
       "id": 2
     },
     {
-      "timestamp": 1768615042542,
-      "studyType": "truck",
-      "projectId": "1768266875275",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "Cat 777-7",
-      "hauledTrucks": [],
-      "supervisor": "jnlj",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "LEACH PAD",
-          "cycleTime": 0
-        },
-        {
-          "pit": "CABIN PIT",
-          "dump": "LEACH PAD",
-          "cycleTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 3,
-      "totalDelayTime": 0,
-      "id": 9
-    },
-    {
       "timestamp": 1768614837025,
       "studyType": "truck",
       "projectId": "1768266861993",
