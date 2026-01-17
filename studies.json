@@ -191,6 +191,159 @@
       "totalStudyTime": 31,
       "totalDelayTime": 14,
       "id": 23
+    },
+    {
+      "timestamp": 1768694325231,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 777B",
+      "hauledTrucks": [],
+      "supervisor": "l,/,",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 4
+        },
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "LEACH PAD",
+          "cycleTime": 5
+        },
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "CARBON DUMP",
+          "cycleTime": 1
+        }
+      ],
+      "delays": [
+        {
+          "type": "BATHROOM BREAK",
+          "note": "",
+          "time": 2
+        },
+        {
+          "type": "TRUCK DOWN",
+          "note": "",
+          "time": 3
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 22,
+      "totalDelayTime": 5,
+      "id": 5
+    },
+    {
+      "timestamp": 1768694289911,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "PC-460",
+      "hauledTrucks": [
+        "Cat 777B"
+      ],
+      "supervisor": "lm/,",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 4,
+      "totalDelayTime": 0,
+      "id": 4
+    },
+    {
+      "timestamp": 1768694261846,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "PC-460",
+      "hauledTrucks": [
+        "Cat 777B"
+      ],
+      "supervisor": ".ml/",
+      "loads": [
+        {
+          "truck": "Cat 777B",
+          "loadTime": 4,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 5,
+      "totalDelayTime": 0,
+      "id": 3
+    },
+    {
+      "timestamp": 1768694245760,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "PC-460",
+      "hauledTrucks": [
+        "CAT 777C"
+      ],
+      "supervisor": "l,;l,",
+      "loads": [
+        {
+          "truck": "CAT 777C",
+          "loadTime": 9,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "CAT 777C",
+          "loadTime": 3,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 14,
+      "totalDelayTime": 0,
+      "id": 2
+    },
+    {
+      "timestamp": 1768694195809,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "CAT 777C"
+      ],
+      "supervisor": "l;m,l;,",
+      "loads": [
+        {
+          "truck": "CAT 777C",
+          "loadTime": 22,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "STUDY INTERRUPTION",
+          "note": "",
+          "time": 3
+        },
+        {
+          "type": "MAINTENANCE",
+          "note": "",
+          "time": 3
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 34,
+      "totalDelayTime": 6,
+      "id": 1
     }
   ]
 }
