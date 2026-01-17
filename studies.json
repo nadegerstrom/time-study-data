@@ -368,30 +368,6 @@
       "totalStudyTime": 100,
       "totalDelayTime": 6,
       "id": 11
-    },
-    {
-      "timestamp": 1768615711472,
-      "studyType": "loading",
-      "projectId": "1768266875275",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "CAT 992K",
-      "hauledTrucks": [
-        "KOM 785D"
-      ],
-      "supervisor": "jkn",
-      "loads": [],
-      "delays": [
-        {
-          "type": "STUDY INTERRUPTION",
-          "note": "",
-          "time": 1
-        }
-      ],
-      "notes": "",
-      "totalStudyTime": 186,
-      "totalDelayTime": 1,
-      "id": 12
     }
   ]
 }
