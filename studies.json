@@ -294,44 +294,6 @@
       "id": 13
     },
     {
-      "timestamp": 1768616854267,
-      "studyType": "truck",
-      "projectId": "1768266875275",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "CAT 777C",
-      "hauledTrucks": [],
-      "supervisor": "mn",
-      "loads": [
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "CARBON DUMP",
-          "cycleTime": 4
-        }
-      ],
-      "delays": [
-        {
-          "type": "WAITING TO BE LOADED",
-          "note": "",
-          "time": 5
-        },
-        {
-          "type": "BATHROOM BREAK",
-          "note": "",
-          "time": 8
-        },
-        {
-          "type": "FUELING",
-          "note": "",
-          "time": 6
-        }
-      ],
-      "notes": "",
-      "totalStudyTime": 19,
-      "totalDelayTime": 19,
-      "id": 21
-    },
-    {
       "timestamp": 1768616575182,
       "studyType": "truck",
       "projectId": "1768266861993",
