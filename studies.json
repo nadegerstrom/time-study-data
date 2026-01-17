@@ -127,34 +127,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768616405979,
-      "studyType": "truck",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "KOM 785D",
-      "hauledTrucks": [],
-      "supervisor": "bnnb",
-      "loads": [
-        {
-          "pit": "PICK",
-          "dump": "CARBON DUMP",
-          "cycleTime": 13
-        }
-      ],
-      "delays": [
-        {
-          "type": "FUELING",
-          "note": "",
-          "time": 3
-        }
-      ],
-      "notes": "",
-      "totalStudyTime": 17,
-      "totalDelayTime": 3,
-      "id": 17
-    },
-    {
       "timestamp": 1768616168322,
       "studyType": "truck",
       "projectId": "1768266861993",
