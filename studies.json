@@ -292,6 +292,66 @@
       "totalStudyTime": 17,
       "totalDelayTime": 0,
       "id": 13
+    },
+    {
+      "timestamp": 1768616854267,
+      "studyType": "truck",
+      "projectId": "1768266875275",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "supervisor": "mn",
+      "loads": [
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "CARBON DUMP",
+          "cycleTime": 4
+        }
+      ],
+      "delays": [
+        {
+          "type": "WAITING TO BE LOADED",
+          "note": "",
+          "time": 5
+        },
+        {
+          "type": "BATHROOM BREAK",
+          "note": "",
+          "time": 8
+        },
+        {
+          "type": "FUELING",
+          "note": "",
+          "time": 6
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 19,
+      "totalDelayTime": 19,
+      "id": 21
+    },
+    {
+      "timestamp": 1768616575182,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "supervisor": "jgjkhg",
+      "loads": [
+        {
+          "pit": "PICK",
+          "dump": "LEACH PAD",
+          "cycleTime": 5
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 31,
+      "totalDelayTime": 0,
+      "id": 20
     }
   ]
 }
