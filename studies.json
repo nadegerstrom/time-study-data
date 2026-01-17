@@ -127,22 +127,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768612761871,
-      "studyType": "truck",
-      "projectId": "1768266875275",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "Cat 777B",
-      "hauledTrucks": [],
-      "supervisor": ",,,",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 74,
-      "totalDelayTime": 0,
-      "id": 3
-    },
-    {
       "timestamp": 1768612725596,
       "studyType": "truck",
       "projectId": "1768266861993",
