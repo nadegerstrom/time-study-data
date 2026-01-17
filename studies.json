@@ -195,6 +195,109 @@
       "totalStudyTime": 38,
       "totalDelayTime": 2,
       "id": 2
+    },
+    {
+      "timestamp": 1768615042542,
+      "studyType": "truck",
+      "projectId": "1768266875275",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "Cat 777-7",
+      "hauledTrucks": [],
+      "supervisor": "jnlj",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 0
+        },
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 3,
+      "totalDelayTime": 0,
+      "id": 9
+    },
+    {
+      "timestamp": 1768614837025,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "supervisor": "lml",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 2
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 4,
+      "totalDelayTime": 0,
+      "id": 8
+    },
+    {
+      "timestamp": 1768614649134,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "supervisor": "mlk.",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 5,
+      "totalDelayTime": 0,
+      "id": 7
+    },
+    {
+      "timestamp": 1768614580279,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "supervisor": "kmlnkn.",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 1
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 2,
+      "totalDelayTime": 0,
+      "id": 6
+    },
+    {
+      "timestamp": 1768614461736,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777D",
+      "hauledTrucks": [],
+      "supervisor": "klj",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 14,
+      "totalDelayTime": 0,
+      "id": 5
     }
   ]
 }
