@@ -155,6 +155,76 @@
       "totalStudyTime": 165,
       "totalDelayTime": 19,
       "id": 15
+    },
+    {
+      "timestamp": 1768612990328,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 777B",
+      "hauledTrucks": [],
+      "supervisor": "mlkn",
+      "loads": [
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "LEACH PAD",
+          "cycleTime": 1
+        },
+        {
+          "pit": "PICK",
+          "dump": "LEACH PAD",
+          "cycleTime": 6
+        },
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "CARBON DUMP",
+          "cycleTime": 1
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 18,
+      "totalDelayTime": 0,
+      "id": 4
+    },
+    {
+      "timestamp": 1768612761871,
+      "studyType": "truck",
+      "projectId": "1768266875275",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "Cat 777B",
+      "hauledTrucks": [],
+      "supervisor": ",,,",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 74,
+      "totalDelayTime": 0,
+      "id": 3
+    },
+    {
+      "timestamp": 1768612725596,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "supervisor": "test",
+      "loads": [],
+      "delays": [
+        {
+          "type": "TRUCK DOWN",
+          "note": "",
+          "time": 2
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 38,
+      "totalDelayTime": 2,
+      "id": 2
     }
   ]
 }
