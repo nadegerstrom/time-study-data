@@ -127,22 +127,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768616116844,
-      "studyType": "truck",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "CAT 777C",
-      "hauledTrucks": [],
-      "supervisor": "hkb",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 85,
-      "totalDelayTime": 0,
-      "id": 15
-    },
-    {
       "timestamp": 1768616088654,
       "studyType": "truck",
       "projectId": "1768266861993",
