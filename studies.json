@@ -325,6 +325,49 @@
       "totalStudyTime": 3,
       "totalDelayTime": 0,
       "id": 10
+    },
+    {
+      "timestamp": 1768615625214,
+      "studyType": "truck",
+      "projectId": "1768266875275",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "Cat 777-7",
+      "hauledTrucks": [],
+      "supervisor": "hjb",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 18
+        },
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "CARBON DUMP",
+          "cycleTime": 12
+        },
+        {
+          "pit": "PICK",
+          "dump": "WASTE DUMP",
+          "cycleTime": 4
+        },
+        {
+          "pit": "CABIN PIT",
+          "dump": "CARBON DUMP",
+          "cycleTime": 3
+        }
+      ],
+      "delays": [
+        {
+          "type": "BATHROOM BREAK",
+          "note": "",
+          "time": 6
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 100,
+      "totalDelayTime": 6,
+      "id": 11
     }
   ]
 }
