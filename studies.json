@@ -352,6 +352,34 @@
       "totalStudyTime": 31,
       "totalDelayTime": 0,
       "id": 20
+    },
+    {
+      "timestamp": 1768616929698,
+      "studyType": "truck",
+      "projectId": "1768266875275",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "Cat 777G",
+      "hauledTrucks": [],
+      "supervisor": "yg",
+      "loads": [
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "CARBON DUMP",
+          "cycleTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "WAITING TO BE LOADED",
+          "note": "",
+          "time": 17
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 4,
+      "totalDelayTime": 17,
+      "id": 22
     }
   ]
 }
