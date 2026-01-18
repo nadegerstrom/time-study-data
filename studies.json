@@ -193,24 +193,6 @@
       "id": 23
     },
     {
-      "timestamp": 1768694289911,
-      "studyType": "loading",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "PC-460",
-      "hauledTrucks": [
-        "Cat 777B"
-      ],
-      "supervisor": "lm/,",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 4,
-      "totalDelayTime": 0,
-      "id": 4
-    },
-    {
       "timestamp": 1768694261846,
       "studyType": "loading",
       "projectId": "1768266861993",
