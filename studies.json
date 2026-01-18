@@ -125,44 +125,6 @@
       "totalStudyTime": 3727,
       "totalDelayTime": 0,
       "id": 4
-    },
-    {
-      "timestamp": 1768700803533,
-      "studyType": "truck",
-      "projectId": "1768266875275",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "KOM 785D",
-      "hauledTrucks": [],
-      "name": "Testyhhu",
-      "loads": [
-        {
-          "pit": "PICK",
-          "dump": "CARBON DUMP",
-          "cycleTime": 1
-        },
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "LEACH PAD",
-          "cycleTime": 1
-        },
-        {
-          "pit": "CABIN PIT",
-          "dump": "LEACH PAD",
-          "cycleTime": 0
-        }
-      ],
-      "delays": [
-        {
-          "type": "TRUCK DOWN",
-          "note": "",
-          "time": 2
-        }
-      ],
-      "notes": "You bud",
-      "totalStudyTime": 17,
-      "totalDelayTime": 2,
-      "id": 12
     }
   ]
 }
