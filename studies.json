@@ -127,33 +127,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768695214074,
-      "studyType": "truck",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "CAT 777C",
-      "hauledTrucks": [],
-      "name": ".m.,,",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "LEACH PAD",
-          "cycleTime": 1
-        },
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "CARBON DUMP",
-          "cycleTime": 1
-        }
-      ],
-      "delays": [],
-      "notes": "test",
-      "totalStudyTime": 5,
-      "totalDelayTime": 0,
-      "id": 9
-    },
-    {
       "timestamp": 1768695172921,
       "studyType": "loading",
       "projectId": "1768266861993",
