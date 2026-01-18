@@ -127,33 +127,6 @@
       "id": 4
     },
     {
-      "timestamp": 1768696683120,
-      "studyType": "truck",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "Cat 777B",
-      "hauledTrucks": [],
-      "name": ",/",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "CARBON DUMP",
-          "cycleTime": 1
-        },
-        {
-          "pit": "CABIN PIT",
-          "dump": "WASTE DUMP",
-          "cycleTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 5,
-      "totalDelayTime": 0,
-      "id": 13
-    },
-    {
       "timestamp": 1768696664908,
       "studyType": "loading",
       "projectId": "1768266861993",
