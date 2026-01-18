@@ -125,6 +125,191 @@
       "totalStudyTime": 3727,
       "totalDelayTime": 0,
       "id": 4
+    },
+    {
+      "timestamp": 1768695582753,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 777B",
+      "hauledTrucks": [],
+      "name": "yukh.j,",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 8
+        },
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 1
+        }
+      ],
+      "delays": [
+        {
+          "type": "TRUCK DOWN",
+          "note": "",
+          "time": 2
+        },
+        {
+          "type": "WAITING TO BE LOADED",
+          "note": "",
+          "time": 3
+        }
+      ],
+      "notes": "test",
+      "totalStudyTime": 17,
+      "totalDelayTime": 5,
+      "id": 11
+    },
+    {
+      "timestamp": 1768695538438,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "CAT 777C"
+      ],
+      "name": "hnkj",
+      "loads": [
+        {
+          "truck": "CAT 777C",
+          "loadTime": 13,
+          "passCount": 3,
+          "hangTime": 0
+        },
+        {
+          "truck": "CAT 777C",
+          "loadTime": 5,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "STUDY INTERRUPTION",
+          "note": "",
+          "time": 2
+        },
+        {
+          "type": "BLASTING",
+          "note": "",
+          "time": 2
+        }
+      ],
+      "notes": "test",
+      "totalStudyTime": 30,
+      "totalDelayTime": 4,
+      "id": 10
+    },
+    {
+      "timestamp": 1768695214074,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "name": ".m.,,",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "LEACH PAD",
+          "cycleTime": 1
+        },
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "CARBON DUMP",
+          "cycleTime": 1
+        }
+      ],
+      "delays": [],
+      "notes": "test",
+      "totalStudyTime": 5,
+      "totalDelayTime": 0,
+      "id": 9
+    },
+    {
+      "timestamp": 1768695172921,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "Cat 777B"
+      ],
+      "name": "kmlk.m",
+      "loads": [
+        {
+          "truck": "Cat 777B",
+          "loadTime": 15,
+          "passCount": 3,
+          "hangTime": 0
+        },
+        {
+          "truck": "Cat 777B",
+          "loadTime": 7,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "test2",
+      "totalStudyTime": 29,
+      "totalDelayTime": 0,
+      "id": 8
+    },
+    {
+      "timestamp": 1768694630933,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 777B",
+      "hauledTrucks": [],
+      "supervisor": "dcz",
+      "loads": [],
+      "delays": [
+        {
+          "type": "FUELING",
+          "note": "",
+          "time": 8
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 13,
+      "totalDelayTime": 8,
+      "id": 7
+    },
+    {
+      "timestamp": 1768694591865,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "CAT 777C"
+      ],
+      "supervisor": "skjn.ksam",
+      "loads": [
+        {
+          "truck": "CAT 777C",
+          "loadTime": 9,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 17,
+      "totalDelayTime": 0,
+      "id": 6
     }
   ]
 }
