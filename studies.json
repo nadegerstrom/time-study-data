@@ -125,40 +125,6 @@
       "totalStudyTime": 3727,
       "totalDelayTime": 0,
       "id": 4
-    },
-    {
-      "timestamp": 1768701330419,
-      "studyType": "loading",
-      "projectId": "1768266875275",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "CAT 992K",
-      "hauledTrucks": [
-        "KOM 785D"
-      ],
-      "name": "Dock tick Fitch",
-      "loads": [],
-      "delays": [
-        {
-          "type": "MAINTENANCE",
-          "note": "",
-          "time": 37
-        },
-        {
-          "type": "MAINTENANCE",
-          "note": "",
-          "time": 2
-        },
-        {
-          "type": "BLASTING",
-          "note": "",
-          "time": 4
-        }
-      ],
-      "notes": "Tulip",
-      "totalStudyTime": 17,
-      "totalDelayTime": 43,
-      "id": 5
     }
   ]
 }
