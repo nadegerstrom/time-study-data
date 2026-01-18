@@ -14,23 +14,26 @@
         "CAT 992-12"
       ],
       "trucks": [
-        "100 Ton",
-        "85 Ton",
-        "65 Ton"
+        "CAT 777D",
+        "CAT 777C",
+        "KOM 785D",
+        "Cat 777B",
+        "Cat 777G",
+        "Cat 777-7"
       ]
     },
     {
-      "id": "1768266875275",
+      "id": "1768705338737",
       "name": "RAIN",
       "jobNumber": "2502",
       "loaders": [
         "CAT 992D",
         "CAT 992G",
         "CAT 992K",
+        "CAT 992-12",
         "PC-460",
         "PC-600",
-        "PC-650",
-        "CAT 992-12"
+        "PC-650"
       ],
       "trucks": [
         "100 Ton",
