@@ -193,49 +193,6 @@
       "id": 23
     },
     {
-      "timestamp": 1768694325231,
-      "studyType": "truck",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "Cat 777B",
-      "hauledTrucks": [],
-      "supervisor": "l,/,",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "LEACH PAD",
-          "cycleTime": 4
-        },
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "LEACH PAD",
-          "cycleTime": 5
-        },
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "CARBON DUMP",
-          "cycleTime": 1
-        }
-      ],
-      "delays": [
-        {
-          "type": "BATHROOM BREAK",
-          "note": "",
-          "time": 2
-        },
-        {
-          "type": "TRUCK DOWN",
-          "note": "",
-          "time": 3
-        }
-      ],
-      "notes": "",
-      "totalStudyTime": 22,
-      "totalDelayTime": 5,
-      "id": 5
-    },
-    {
       "timestamp": 1768694289911,
       "studyType": "loading",
       "projectId": "1768266861993",
