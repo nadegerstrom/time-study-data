@@ -170,6 +170,24 @@
       "totalStudyTime": 15,
       "totalDelayTime": 0,
       "id": 12
+    },
+    {
+      "timestamp": 1768699266460,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "CAT 777C"
+      ],
+      "name": "km.",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 0,
+      "totalDelayTime": 0,
+      "id": 16
     }
   ]
 }
