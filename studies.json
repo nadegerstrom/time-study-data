@@ -193,37 +193,6 @@
       "id": 23
     },
     {
-      "timestamp": 1768694245760,
-      "studyType": "loading",
-      "projectId": "1768266861993",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "PC-460",
-      "hauledTrucks": [
-        "CAT 777C"
-      ],
-      "supervisor": "l,;l,",
-      "loads": [
-        {
-          "truck": "CAT 777C",
-          "loadTime": 9,
-          "passCount": 5,
-          "hangTime": 0
-        },
-        {
-          "truck": "CAT 777C",
-          "loadTime": 3,
-          "passCount": 3,
-          "hangTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 14,
-      "totalDelayTime": 0,
-      "id": 2
-    },
-    {
       "timestamp": 1768694195809,
       "studyType": "loading",
       "projectId": "1768266861993",
