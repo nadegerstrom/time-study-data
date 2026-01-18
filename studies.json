@@ -188,6 +188,172 @@
       "totalStudyTime": 0,
       "totalDelayTime": 0,
       "id": 16
+    },
+    {
+      "timestamp": 1768699362807,
+      "studyType": "truck",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 777C",
+      "hauledTrucks": [],
+      "name": "Test",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "WASTE DUMP",
+          "cycleTime": 4
+        },
+        {
+          "pit": "PICK",
+          "dump": "LEACH PAD",
+          "cycleTime": 2
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 12,
+      "totalDelayTime": 0,
+      "id": 10
+    },
+    {
+      "timestamp": 1768699338592,
+      "studyType": "loading",
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "Cat 777-7"
+      ],
+      "name": "Test",
+      "loads": [
+        {
+          "truck": "Cat 777-7",
+          "loadTime": 6,
+          "passCount": 3,
+          "hangTime": 0
+        },
+        {
+          "truck": "Cat 777-7",
+          "loadTime": 4,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "Test",
+      "totalStudyTime": 12,
+      "totalDelayTime": 0,
+      "id": 9
+    },
+    {
+      "timestamp": 1768594648164,
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992G",
+      "trucks": [
+        "KOM 785D"
+      ],
+      "supervisor": "Ghg",
+      "loads": [
+        {
+          "truck": "KOM 785D",
+          "loadTime": 6,
+          "passCount": 3,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 17,
+      "totalDelayTime": 0,
+      "id": 8
+    },
+    {
+      "timestamp": 1768426499198,
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992D",
+      "trucks": [
+        "CAT 777D"
+      ],
+      "supervisor": "Jgfg",
+      "loads": [
+        {
+          "truck": "CAT 777D",
+          "loadTime": 4,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "CAT 777D",
+          "loadTime": 3,
+          "passCount": 4,
+          "hangTime": 3
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 9,
+      "totalDelayTime": 0,
+      "id": 7
+    },
+    {
+      "timestamp": 1768426451358,
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992K",
+      "trucks": [
+        "KOM 785D"
+      ],
+      "supervisor": "Gfgj",
+      "loads": [
+        {
+          "truck": "KOM 785D",
+          "loadTime": 6,
+          "passCount": 0,
+          "hangTime": 34
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 16525,
+      "totalDelayTime": 0,
+      "id": 6
+    },
+    {
+      "timestamp": 1768426415965,
+      "projectId": "1768266861993",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "loader": "CAT 992D",
+      "trucks": [
+        "CAT 777D"
+      ],
+      "supervisor": "Hcgj",
+      "loads": [
+        {
+          "truck": "CAT 777D",
+          "loadTime": 4,
+          "passCount": 3,
+          "hangTime": 12756
+        },
+        {
+          "truck": "CAT 777D",
+          "loadTime": 4,
+          "passCount": 4,
+          "hangTime": 6
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 16490,
+      "totalDelayTime": 0,
+      "id": 5
     }
   ]
 }
