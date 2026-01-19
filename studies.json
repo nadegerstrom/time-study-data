@@ -560,28 +560,6 @@
       "totalStudyTime": 1795,
       "totalDelayTime": 139,
       "id": 2
-    },
-    {
-      "timestamp": 1768777670237,
-      "studyType": "truck",
-      "projectId": "1768705412932",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "100 Ton",
-      "hauledTrucks": [],
-      "name": "Bob",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "LEACH PAD",
-          "cycleTime": 15
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 26,
-      "totalDelayTime": 0,
-      "id": 1
     }
   ]
 }
