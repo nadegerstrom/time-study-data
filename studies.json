@@ -560,22 +560,6 @@
       "totalStudyTime": 1795,
       "totalDelayTime": 139,
       "id": 2
-    },
-    {
-      "timestamp": 1768863741557,
-      "studyType": "truck",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "85 Ton",
-      "hauledTrucks": [],
-      "name": "hgkjhkj",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 0,
-      "totalDelayTime": 0,
-      "id": 18
     }
   ]
 }
