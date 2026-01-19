@@ -125,44 +125,6 @@
       "totalStudyTime": 3727,
       "totalDelayTime": 0,
       "id": 4
-    },
-    {
-      "timestamp": 1768835186339,
-      "studyType": "truck",
-      "projectId": "1768705412932",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "100 Ton",
-      "hauledTrucks": [],
-      "name": "drtr",
-      "loads": [
-        {
-          "pit": "PICK",
-          "dump": "LEACH PAD",
-          "cycleTime": 8
-        },
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "WASTE DUMP",
-          "cycleTime": 12
-        },
-        {
-          "pit": "CABIN PIT",
-          "dump": "CARBON DUMP",
-          "cycleTime": 0
-        }
-      ],
-      "delays": [
-        {
-          "type": "BATHROOM BREAK",
-          "note": "",
-          "time": 3
-        }
-      ],
-      "notes": "test",
-      "totalStudyTime": 35,
-      "totalDelayTime": 3,
-      "id": 17
     }
   ]
 }
