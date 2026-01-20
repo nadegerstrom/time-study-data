@@ -603,6 +603,49 @@
       "totalStudyTime": 70,
       "totalDelayTime": 40,
       "id": 1
+    },
+    {
+      "timestamp": 1768872157276,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Donald E. Hamilton",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 8,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 11,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 7,
+          "passCount": 5,
+          "hangTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "FUEL",
+          "note": "",
+          "time": 40
+        }
+      ],
+      "notes": "Testing",
+      "totalStudyTime": 70,
+      "totalDelayTime": 40,
+      "id": 1
     }
   ]
 }
