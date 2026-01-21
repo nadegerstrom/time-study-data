@@ -327,6 +327,70 @@
       "totalStudyTime": 5166,
       "totalDelayTime": 539,
       "id": 5
+    },
+    {
+      "timestamp": 1769023012461,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "85 Ton"
+      ],
+      "name": "xvsdv",
+      "loads": [
+        {
+          "truck": "85 Ton",
+          "loadTime": 8,
+          "passCount": 3,
+          "hangTime": 3,
+          "note": "test2"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 7,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": "testfesfasdcasdfas"
+        }
+      ],
+      "delays": [],
+      "notes": "test",
+      "totalStudyTime": 20,
+      "totalDelayTime": 0,
+      "id": 26
+    },
+    {
+      "timestamp": 1769022747681,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "65 Ton"
+      ],
+      "name": "test",
+      "loads": [
+        {
+          "truck": "65 Ton",
+          "loadTime": 11,
+          "passCount": 4,
+          "hangTime": 3
+        },
+        {
+          "truck": "65 Ton",
+          "loadTime": 10,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "t-365 t-356",
+      "totalStudyTime": 27,
+      "totalDelayTime": 0,
+      "id": 25
     }
   ]
 }
