@@ -360,6 +360,46 @@
       "totalStudyTime": 23,
       "totalDelayTime": 0,
       "id": 27
+    },
+    {
+      "timestamp": 1769025374089,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "PC-460",
+      "hauledTrucks": [
+        "85 Ton"
+      ],
+      "name": "fbxfgf",
+      "loads": [
+        {
+          "truck": "85 Ton",
+          "loadTime": 3,
+          "passCount": 3,
+          "hangTime": 1,
+          "note": ""
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 3,
+          "passCount": 3,
+          "hangTime": 1,
+          "note": ""
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 3,
+          "passCount": 3,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 13,
+      "totalDelayTime": 0,
+      "id": 28
     }
   ]
 }
