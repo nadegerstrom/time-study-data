@@ -327,6 +327,37 @@
       "totalStudyTime": 5166,
       "totalDelayTime": 539,
       "id": 5
+    },
+    {
+      "timestamp": 1769022939893,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "85 Ton"
+      ],
+      "name": "Ycufuf",
+      "loads": [
+        {
+          "truck": "85 Ton",
+          "loadTime": 2,
+          "passCount": 5,
+          "hangTime": 5
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 2,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 11,
+      "totalDelayTime": 0,
+      "id": 12
     }
   ]
 }
