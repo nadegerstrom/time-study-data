@@ -364,43 +364,6 @@
       "totalStudyTime": 31,
       "totalDelayTime": 0,
       "id": 4
-    },
-    {
-      "timestamp": 1769019966095,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "CAT 992D",
-      "hauledTrucks": [
-        "100 Ton"
-      ],
-      "name": "Test",
-      "loads": [
-        {
-          "truck": "100 Ton",
-          "loadTime": 4,
-          "passCount": 3,
-          "hangTime": 0
-        },
-        {
-          "truck": "100 Ton",
-          "loadTime": 4,
-          "passCount": 3,
-          "hangTime": 0
-        },
-        {
-          "truck": "100 Ton",
-          "loadTime": 3,
-          "passCount": 3,
-          "hangTime": 0
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 20,
-      "totalDelayTime": 0,
-      "id": 3
     }
   ]
 }
