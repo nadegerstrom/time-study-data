@@ -125,6 +125,245 @@
       "totalStudyTime": 3727,
       "totalDelayTime": 0,
       "id": 4
+    },
+    {
+      "timestamp": 1768952227609,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton",
+        "85 Ton"
+      ],
+      "name": "DonE",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 52,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 121,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 126,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 119,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 114,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 117,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 114,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 119,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 125,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 116,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 115,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 98,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 121,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 58,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 104,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 107,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 85,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 122,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 117,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 114,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 105,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 119,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 97,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 126,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 107,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 220
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 22
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 102
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 94
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 101
+        }
+      ],
+      "notes": "Very tough boggy floor conditions. ",
+      "totalStudyTime": 5166,
+      "totalDelayTime": 539,
+      "id": 5
+    },
+    {
+      "timestamp": 1768946221149,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Donald E. Hamilton",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 9,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 7,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 7,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 31,
+      "totalDelayTime": 0,
+      "id": 4
     }
   ]
 }
