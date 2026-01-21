@@ -391,6 +391,39 @@
       "totalStudyTime": 27,
       "totalDelayTime": 0,
       "id": 25
+    },
+    {
+      "timestamp": 1769023321984,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "PC-460",
+      "hauledTrucks": [
+        "85 Ton"
+      ],
+      "name": "tdtfiug",
+      "loads": [
+        {
+          "truck": "85 Ton",
+          "loadTime": 11,
+          "passCount": 4,
+          "hangTime": 3,
+          "note": "cleaning floor"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 6,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": "trwasfasfdaszc"
+        }
+      ],
+      "delays": [],
+      "notes": "rainy",
+      "totalStudyTime": 23,
+      "totalDelayTime": 0,
+      "id": 27
     }
   ]
 }
