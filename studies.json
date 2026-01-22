@@ -776,24 +776,6 @@
       "totalStudyTime": 5,
       "totalDelayTime": 0,
       "id": 30
-    },
-    {
-      "timestamp": 1769124798845,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "PC-600",
-      "hauledTrucks": [
-        "65 Ton"
-      ],
-      "name": "Vcfh",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 34,
-      "totalDelayTime": 0,
-      "id": 6
     }
   ]
 }
