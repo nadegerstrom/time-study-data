@@ -495,34 +495,6 @@
       "id": 1
     },
     {
-      "timestamp": 1769096334538,
-      "studyType": "truck",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "100 Ton",
-      "hauledTrucks": [],
-      "name": "Clint",
-      "loads": [
-        {
-          "pit": "PICK",
-          "dump": "LEACH PAD",
-          "cycleTime": 2,
-          "hangTime": 0
-        },
-        {
-          "pit": "PICK",
-          "dump": "CARBON DUMP",
-          "cycleTime": 2
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 10,
-      "totalDelayTime": 0,
-      "id": 2
-    },
-    {
       "timestamp": 1769106108201,
       "studyType": "loading",
       "projectId": "1768705412932",
