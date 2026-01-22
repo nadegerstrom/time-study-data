@@ -462,34 +462,6 @@
       "id": 3
     },
     {
-      "timestamp": 1768947739786,
-      "studyType": "truck",
-      "projectId": "1768705412932",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "85 Ton",
-      "hauledTrucks": [],
-      "name": "Mx",
-      "loads": [
-        {
-          "pit": "PICK",
-          "dump": "CARBON DUMP",
-          "cycleTime": 3
-        }
-      ],
-      "delays": [
-        {
-          "type": "BATHROOM BREAK",
-          "note": "",
-          "time": 6
-        }
-      ],
-      "notes": "",
-      "totalStudyTime": 66,
-      "totalDelayTime": 6,
-      "id": 2
-    },
-    {
       "timestamp": 1768947654520,
       "studyType": "loading",
       "projectId": "1768705412932",
