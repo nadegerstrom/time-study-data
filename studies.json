@@ -796,24 +796,6 @@
       "id": 6
     },
     {
-      "timestamp": 1769124924688,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "CAT 992G",
-      "hauledTrucks": [
-        "85 Ton"
-      ],
-      "name": "vhnfgn",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 4,
-      "totalDelayTime": 0,
-      "id": 33
-    },
-    {
       "timestamp": 1769124854673,
       "studyType": "loading",
       "projectId": "1768705338737",
