@@ -794,6 +794,24 @@
       "totalStudyTime": 34,
       "totalDelayTime": 0,
       "id": 6
+    },
+    {
+      "timestamp": 1769125042853,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "65 Ton"
+      ],
+      "name": "Vfhj",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 135,
+      "totalDelayTime": 0,
+      "id": 7
     }
   ]
 }
