@@ -716,6 +716,114 @@
       "totalStudyTime": 10,
       "totalDelayTime": 0,
       "id": 29
+    },
+    {
+      "timestamp": 1769111392702,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton",
+        "85 Ton"
+      ],
+      "name": "Don",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 61,
+          "passCount": 4,
+          "hangTime": 20,
+          "note": "T336"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 63,
+          "passCount": 4,
+          "hangTime": 23,
+          "note": "T318 slow to spot"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 81,
+          "passCount": 4,
+          "hangTime": 30,
+          "note": "T220. Good job"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 97,
+          "passCount": 4,
+          "hangTime": 65,
+          "note": "T374"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 81,
+          "passCount": 4,
+          "hangTime": 20,
+          "note": "T398"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 76,
+          "passCount": 4,
+          "hangTime": 44,
+          "note": "T366 good spotting"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 83,
+          "passCount": 4,
+          "hangTime": 53,
+          "note": "T201"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 86,
+          "passCount": 4,
+          "hangTime": 18,
+          "note": "T343"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 75,
+          "passCount": 4,
+          "hangTime": 328,
+          "note": "T220"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 97,
+          "passCount": 4,
+          "hangTime": 31,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 108,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": "T366"
+        }
+      ],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 36
+        },
+        {
+          "type": "FUEL",
+          "note": "",
+          "time": 312
+        }
+      ],
+      "notes": "Good floors and there is a dozer trap feeding",
+      "totalStudyTime": 1552,
+      "totalDelayTime": 348,
+      "id": 1
     }
   ]
 }
