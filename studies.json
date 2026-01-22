@@ -521,6 +521,161 @@
       "totalStudyTime": 10,
       "totalDelayTime": 0,
       "id": 2
+    },
+    {
+      "timestamp": 1769106108201,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Tyler",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 116,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 132,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 121,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 116,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 159,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 130,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 142,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 184,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 103,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 147,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 108,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 116,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 178,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 112,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 137,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 124,
+          "passCount": 4,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 219,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 151,
+          "passCount": 5,
+          "hangTime": 0
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 128,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "Cleaning floor",
+          "time": 46
+        },
+        {
+          "type": "OTHER",
+          "note": "Checking ore control",
+          "time": 31
+        },
+        {
+          "type": "OTHER",
+          "note": "Cleaning floor",
+          "time": 28
+        }
+      ],
+      "notes": "Forgot to hit delay when cleaning floor on long hang time. Trucks were ready waiting. ",
+      "totalStudyTime": 3997,
+      "totalDelayTime": 105,
+      "id": 2
     }
   ]
 }
