@@ -796,24 +796,6 @@
       "id": 6
     },
     {
-      "timestamp": 1769124959842,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "PC-460",
-      "hauledTrucks": [
-        "85 Ton"
-      ],
-      "name": "xvbgvxdv",
-      "loads": [],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 1,
-      "totalDelayTime": 0,
-      "id": 34
-    },
-    {
       "timestamp": 1769124924688,
       "studyType": "loading",
       "projectId": "1768705338737",
