@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": "1768705338737",
+      "name": "RAIN",
+      "jobNumber": "2502",
+      "loaders": [
+        "CAT 992D",
+        "CAT 992G",
+        "CAT 992K",
+        "CAT 992-12",
+        "PC-460",
+        "PC-600",
+        "PC-650"
+      ],
+      "trucks": [
+        "100 Ton",
+        "85 Ton",
+        "65 Ton"
+      ]
+    },
+    {
+      "id": "1768705412932",
+      "name": "GOLD BAR",
+      "jobNumber": "2505",
+      "loaders": [
+        "CAT 992D",
+        "CAT 992G",
+        "CAT 992K",
+        "CAT 992-12",
+        "PC-460",
+        "PC-600",
+        "PC-650"
+      ],
+      "trucks": [
+        "100 Ton",
+        "85 Ton",
+        "65 Ton"
+      ]
+    }
+  ]
+}
