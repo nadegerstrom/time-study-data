@@ -462,39 +462,6 @@
       "id": 3
     },
     {
-      "timestamp": 1769096308111,
-      "studyType": "loading",
-      "projectId": "1768705412932",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "CAT 992G",
-      "hauledTrucks": [
-        "100 Ton"
-      ],
-      "name": "Clint",
-      "loads": [
-        {
-          "truck": "100 Ton",
-          "loadTime": 13,
-          "passCount": 3,
-          "hangTime": 4,
-          "note": ""
-        },
-        {
-          "truck": "100 Ton",
-          "loadTime": 11,
-          "passCount": 4,
-          "hangTime": 0,
-          "note": "Test2"
-        }
-      ],
-      "delays": [],
-      "notes": "Test",
-      "totalStudyTime": 32,
-      "totalDelayTime": 0,
-      "id": 1
-    },
-    {
       "timestamp": 1769106108201,
       "studyType": "loading",
       "projectId": "1768705412932",
