@@ -750,6 +750,57 @@
       "totalStudyTime": 106,
       "totalDelayTime": 0,
       "id": 2
+    },
+    {
+      "timestamp": 1769093823846,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 15,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 61,
+      "totalDelayTime": 0,
+      "id": 6
+    },
+    {
+      "timestamp": 1769034705150,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 62,
+          "passCount": 4,
+          "hangTime": 0
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 64,
+      "totalDelayTime": 0,
+      "id": 5
     }
   ]
 }
