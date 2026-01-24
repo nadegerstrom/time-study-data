@@ -913,6 +913,94 @@
       "totalStudyTime": 28,
       "totalDelayTime": 0,
       "id": 41
+    },
+    {
+      "timestamp": 1769230221631,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "PC-460",
+      "hauledTrucks": [
+        "85 Ton"
+      ],
+      "name": "n",
+      "loads": [
+        {
+          "truck": "85 Ton",
+          "loadTime": 34,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": "☺"
+        }
+      ],
+      "delays": [],
+      "notes": "note",
+      "totalStudyTime": 41,
+      "totalDelayTime": 0,
+      "id": 43
+    },
+    {
+      "timestamp": 1769230080913,
+      "studyType": "truck",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "85 Ton",
+      "hauledTrucks": [],
+      "name": "juhjuhuhu",
+      "loads": [
+        {
+          "pit": "CABIN PIT",
+          "dump": "CARBON DUMP",
+          "cycleTime": 26,
+          "hangTime": 0
+        },
+        {
+          "pit": "PICK",
+          "dump": "LEACH PAD",
+          "cycleTime": 13
+        }
+      ],
+      "delays": [
+        {
+          "type": "WAITING TO BE LOADED",
+          "note": "",
+          "time": 6
+        }
+      ],
+      "notes": "asdfgh",
+      "totalStudyTime": 56,
+      "totalDelayTime": 6,
+      "id": 42
+    },
+    {
+      "timestamp": 1769183930638,
+      "studyType": "truck",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "100 Ton",
+      "hauledTrucks": [],
+      "name": "knk",
+      "loads": [
+        {
+          "pit": "GOLD BAR SOUTH",
+          "dump": "LEACH PAD",
+          "cycleTime": 7,
+          "hangTime": 0
+        },
+        {
+          "pit": "PICK",
+          "dump": "CARBON DUMP",
+          "cycleTime": 2
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 28,
+      "totalDelayTime": 0,
+      "id": 41
     }
   ]
 }
