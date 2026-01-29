@@ -827,40 +827,6 @@
       "id": 40
     },
     {
-      "timestamp": 1769230080913,
-      "studyType": "truck",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "85 Ton",
-      "hauledTrucks": [],
-      "name": "juhjuhuhu",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "CARBON DUMP",
-          "cycleTime": 26,
-          "hangTime": 0
-        },
-        {
-          "pit": "PICK",
-          "dump": "LEACH PAD",
-          "cycleTime": 13
-        }
-      ],
-      "delays": [
-        {
-          "type": "WAITING TO BE LOADED",
-          "note": "",
-          "time": 6
-        }
-      ],
-      "notes": "asdfgh",
-      "totalStudyTime": 56,
-      "totalDelayTime": 6,
-      "id": 42
-    },
-    {
       "timestamp": 1769183930638,
       "studyType": "truck",
       "projectId": "1768705412932",
@@ -887,40 +853,6 @@
       "totalStudyTime": 28,
       "totalDelayTime": 0,
       "id": 41
-    },
-    {
-      "timestamp": 1769230080913,
-      "studyType": "truck",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "85 Ton",
-      "hauledTrucks": [],
-      "name": "juhjuhuhu",
-      "loads": [
-        {
-          "pit": "CABIN PIT",
-          "dump": "CARBON DUMP",
-          "cycleTime": 26,
-          "hangTime": 0
-        },
-        {
-          "pit": "PICK",
-          "dump": "LEACH PAD",
-          "cycleTime": 13
-        }
-      ],
-      "delays": [
-        {
-          "type": "WAITING TO BE LOADED",
-          "note": "",
-          "time": 6
-        }
-      ],
-      "notes": "asdfgh",
-      "totalStudyTime": 56,
-      "totalDelayTime": 6,
-      "id": 42
     },
     {
       "timestamp": 1769183930638,
