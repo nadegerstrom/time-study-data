@@ -825,62 +825,6 @@
       "totalStudyTime": 76,
       "totalDelayTime": 6,
       "id": 40
-    },
-    {
-      "timestamp": 1769183930638,
-      "studyType": "truck",
-      "projectId": "1768705412932",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "100 Ton",
-      "hauledTrucks": [],
-      "name": "knk",
-      "loads": [
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "LEACH PAD",
-          "cycleTime": 7,
-          "hangTime": 0
-        },
-        {
-          "pit": "PICK",
-          "dump": "CARBON DUMP",
-          "cycleTime": 2
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 28,
-      "totalDelayTime": 0,
-      "id": 41
-    },
-    {
-      "timestamp": 1769183930638,
-      "studyType": "truck",
-      "projectId": "1768705412932",
-      "projectName": "GOLD BAR",
-      "jobNumber": "2505",
-      "equipment": "100 Ton",
-      "hauledTrucks": [],
-      "name": "knk",
-      "loads": [
-        {
-          "pit": "GOLD BAR SOUTH",
-          "dump": "LEACH PAD",
-          "cycleTime": 7,
-          "hangTime": 0
-        },
-        {
-          "pit": "PICK",
-          "dump": "CARBON DUMP",
-          "cycleTime": 2
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 28,
-      "totalDelayTime": 0,
-      "id": 41
     }
   ]
 }
