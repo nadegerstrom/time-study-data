@@ -827,32 +827,6 @@
       "id": 40
     },
     {
-      "timestamp": 1769230221631,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "PC-460",
-      "hauledTrucks": [
-        "85 Ton"
-      ],
-      "name": "n",
-      "loads": [
-        {
-          "truck": "85 Ton",
-          "loadTime": 34,
-          "passCount": 4,
-          "hangTime": 0,
-          "note": "☺"
-        }
-      ],
-      "delays": [],
-      "notes": "note",
-      "totalStudyTime": 41,
-      "totalDelayTime": 0,
-      "id": 43
-    },
-    {
       "timestamp": 1769230080913,
       "studyType": "truck",
       "projectId": "1768705338737",
@@ -913,32 +887,6 @@
       "totalStudyTime": 28,
       "totalDelayTime": 0,
       "id": 41
-    },
-    {
-      "timestamp": 1769230221631,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "PC-460",
-      "hauledTrucks": [
-        "85 Ton"
-      ],
-      "name": "n",
-      "loads": [
-        {
-          "truck": "85 Ton",
-          "loadTime": 34,
-          "passCount": 4,
-          "hangTime": 0,
-          "note": "☺"
-        }
-      ],
-      "delays": [],
-      "notes": "note",
-      "totalStudyTime": 41,
-      "totalDelayTime": 0,
-      "id": 43
     },
     {
       "timestamp": 1769230080913,
