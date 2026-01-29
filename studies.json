@@ -1001,46 +1001,6 @@
       "totalStudyTime": 28,
       "totalDelayTime": 0,
       "id": 41
-    },
-    {
-      "timestamp": 1769230722676,
-      "studyType": "loading",
-      "projectId": "1768705338737",
-      "projectName": "RAIN",
-      "jobNumber": "2502",
-      "equipment": "PC-600",
-      "hauledTrucks": [
-        "85 Ton"
-      ],
-      "name": "Chhg",
-      "loads": [
-        {
-          "truck": "85 Ton",
-          "loadTime": 3,
-          "passCount": 6,
-          "hangTime": 1,
-          "note": ""
-        },
-        {
-          "truck": "85 Ton",
-          "loadTime": 3,
-          "passCount": 1,
-          "hangTime": 0,
-          "note": ""
-        },
-        {
-          "truck": "85 Ton",
-          "loadTime": 2,
-          "passCount": 6,
-          "hangTime": 0,
-          "note": ""
-        }
-      ],
-      "delays": [],
-      "notes": "",
-      "totalStudyTime": 12,
-      "totalDelayTime": 0,
-      "id": 9
     }
   ]
 }
