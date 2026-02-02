@@ -801,6 +801,175 @@
       "totalStudyTime": 64,
       "totalDelayTime": 0,
       "id": 5
+    },
+    {
+      "timestamp": 1770067457882,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "85 Ton",
+        "100 Ton"
+      ],
+      "name": "Tyler",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 4,
+          "hangTime": 68,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 102,
+          "passCount": 4,
+          "hangTime": 69,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 291,
+          "passCount": 7,
+          "hangTime": 52,
+          "note": "Not trap feeding, material stuck in loader bucket"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 94,
+          "passCount": 4,
+          "hangTime": 51,
+          "note": "Trap feeding"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 101,
+          "passCount": 4,
+          "hangTime": 53,
+          "note": "Trap feed"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 94,
+          "passCount": 4,
+          "hangTime": 48,
+          "note": "Trap feed "
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 91,
+          "passCount": 4,
+          "hangTime": 58,
+          "note": "Trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 143,
+          "passCount": 5,
+          "hangTime": 98,
+          "note": "Poor staging\nTrap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 104,
+          "passCount": 4,
+          "hangTime": 236,
+          "note": "Trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 137,
+          "passCount": 5,
+          "hangTime": 142,
+          "note": "Trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 175,
+          "passCount": 5,
+          "hangTime": 83,
+          "note": "Trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 160,
+          "passCount": 5,
+          "hangTime": 70,
+          "note": "Not trap feeding"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 228,
+          "passCount": 6,
+          "hangTime": 50,
+          "note": "Material stuck in bucket\nNo trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 103,
+          "passCount": 4,
+          "hangTime": 55,
+          "note": "No trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 209,
+          "passCount": 5,
+          "hangTime": 62,
+          "note": "Poor staging\n"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 181,
+          "passCount": 5,
+          "hangTime": 53,
+          "note": "No trap feed"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 172,
+          "passCount": 5,
+          "hangTime": 75,
+          "note": "No trap feed\n100ton not 85ton"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 240,
+          "passCount": 5,
+          "hangTime": 66,
+          "note": "No trap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 244,
+          "passCount": 6,
+          "hangTime": 0,
+          "note": "No trap feed"
+        }
+      ],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 4
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 70
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 110
+        }
+      ],
+      "notes": "Wet material, soft floors",
+      "totalStudyTime": 4390,
+      "totalDelayTime": 184,
+      "id": 3
     }
   ]
 }
