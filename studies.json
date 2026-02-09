@@ -1139,6 +1139,162 @@
       "totalStudyTime": 4390,
       "totalDelayTime": 184,
       "id": 3
+    },
+    {
+      "timestamp": 1770666711152,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton",
+        "85 Ton"
+      ],
+      "name": "Tyler",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 178,
+          "passCount": 5,
+          "hangTime": 134,
+          "note": "T334\nReally soft dig face"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 175,
+          "passCount": 4,
+          "hangTime": 130,
+          "note": "T322\nSoft floor"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 236,
+          "passCount": 5,
+          "hangTime": 113,
+          "note": "T338\nLoader fixing floor"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 157,
+          "passCount": 5,
+          "hangTime": 343,
+          "note": "T337"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 105,
+          "passCount": 4,
+          "hangTime": 42,
+          "note": "T336\nTrap feed"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 100,
+          "passCount": 4,
+          "hangTime": 45,
+          "note": "T206\nTrap feed"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 109,
+          "passCount": 4,
+          "hangTime": 380,
+          "note": "T318\nTrap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 144,
+          "passCount": 4,
+          "hangTime": 56,
+          "note": "T322\nTrap feed after pass 2"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 110,
+          "passCount": 4,
+          "hangTime": 69,
+          "note": "T339\nTrap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 140,
+          "passCount": 5,
+          "hangTime": 54,
+          "note": "T338\nTrap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 136,
+          "passCount": 5,
+          "hangTime": 202,
+          "note": "T337\nTrap feed"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 239,
+          "passCount": 6,
+          "hangTime": 72,
+          "note": "T320\nDig face floor getting rutted "
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 142,
+          "passCount": 4,
+          "hangTime": 49,
+          "note": "T206"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 195,
+          "passCount": 5,
+          "hangTime": 65,
+          "note": "T336"
+        },
+        {
+          "truck": "85 Ton",
+          "loadTime": 158,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": "T318"
+        }
+      ],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 94
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "Clean floor ",
+          "time": 99
+        },
+        {
+          "type": "OTHER",
+          "note": "Cleaning floor",
+          "time": 52
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 326
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 350
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 180
+        }
+      ],
+      "notes": "Material fairly wet overall. Decent but still soft floors for most of the study",
+      "totalStudyTime": 4092,
+      "totalDelayTime": 1101,
+      "id": 4
     }
   ]
 }
