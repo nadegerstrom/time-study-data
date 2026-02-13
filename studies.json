@@ -1295,6 +1295,461 @@
       "totalStudyTime": 4092,
       "totalDelayTime": 1101,
       "id": 4
+    },
+    {
+      "timestamp": 1771000417535,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 6030",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Hhg",
+      "loads": [],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "",
+          "time": 12
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 18,
+      "totalDelayTime": 12,
+      "id": 14
+    },
+    {
+      "timestamp": 1770852199730,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 6030",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 104,
+          "passCount": 4,
+          "hangTime": 195,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 159,
+          "passCount": 5,
+          "hangTime": 112,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 118,
+          "passCount": 5,
+          "hangTime": 93,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 117,
+          "passCount": 4,
+          "hangTime": 51,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 98,
+          "passCount": 4,
+          "hangTime": 58,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 5,
+          "hangTime": 49,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 109,
+          "passCount": 4,
+          "hangTime": 67,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 98,
+          "passCount": 4,
+          "hangTime": 178,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 93,
+          "passCount": 4,
+          "hangTime": 42,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 106,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "Move",
+          "time": 122
+        },
+        {
+          "type": "OTHER",
+          "note": "Cleanup",
+          "time": 80
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 1997,
+      "totalDelayTime": 202,
+      "id": 13
+    },
+    {
+      "timestamp": 1770849311976,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 6030",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 125,
+          "passCount": 5,
+          "hangTime": 297,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 123,
+          "passCount": 4,
+          "hangTime": 105,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 111,
+          "passCount": 4,
+          "hangTime": 54,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 129,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 219
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 44
+        },
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 348
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 1386,
+      "totalDelayTime": 611,
+      "id": 12
+    },
+    {
+      "timestamp": 1770232926617,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 107,
+          "passCount": 4,
+          "hangTime": 50,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 146,
+          "passCount": 4,
+          "hangTime": 39,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 161,
+          "passCount": 6,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 508,
+      "totalDelayTime": 0,
+      "id": 11
+    },
+    {
+      "timestamp": 1770232204900,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 103,
+          "passCount": 4,
+          "hangTime": 39,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 106,
+          "passCount": 4,
+          "hangTime": 71,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 117,
+          "passCount": 4,
+          "hangTime": 50,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 116,
+          "passCount": 4,
+          "hangTime": 58,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 4,
+          "hangTime": 127,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 105,
+          "passCount": 4,
+          "hangTime": 51,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 106,
+          "passCount": 4,
+          "hangTime": 42,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 104,
+          "passCount": 4,
+          "hangTime": 60,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 95,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "NO TRUCKS",
+          "note": "",
+          "time": 97
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 1476,
+      "totalDelayTime": 97,
+      "id": 10
+    },
+    {
+      "timestamp": 1769438057619,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mc",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 177,
+          "passCount": 5,
+          "hangTime": 43,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 203,
+          "passCount": 6,
+          "hangTime": 41,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 150,
+          "passCount": 4,
+          "hangTime": 42,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 152,
+          "passCount": 5,
+          "hangTime": 11,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 125,
+          "passCount": 5,
+          "hangTime": 45,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 124,
+          "passCount": 4,
+          "hangTime": 26,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 116,
+          "passCount": 4,
+          "hangTime": 37,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 131,
+          "passCount": 5,
+          "hangTime": 187,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 124,
+          "passCount": 4,
+          "hangTime": 44,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 153,
+          "passCount": 5,
+          "hangTime": 39,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 152,
+          "passCount": 5,
+          "hangTime": 109,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 179,
+          "passCount": 4,
+          "hangTime": 121,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 144,
+          "passCount": 5,
+          "hangTime": 43,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 177,
+          "passCount": 6,
+          "hangTime": 36,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 195,
+          "passCount": 6,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "STUDY INTERRUPTION",
+          "note": "",
+          "time": 41
+        },
+        {
+          "type": "OTHER",
+          "note": "Clean",
+          "time": 23
+        },
+        {
+          "type": "STUDY INTERRUPTION",
+          "note": "",
+          "time": 89
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 3143,
+      "totalDelayTime": 153,
+      "id": 7
     }
   ]
 }
