@@ -1750,6 +1750,183 @@
       "totalStudyTime": 3143,
       "totalDelayTime": 153,
       "id": 7
+    },
+    {
+      "timestamp": 1772044401528,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992K",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mike",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 160,
+          "passCount": 4,
+          "hangTime": 45,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 170,
+          "passCount": 5,
+          "hangTime": 47,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 145,
+          "passCount": 5,
+          "hangTime": 45,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 143,
+          "passCount": 5,
+          "hangTime": 33,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 145,
+          "passCount": 5,
+          "hangTime": 61,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 146,
+          "passCount": 5,
+          "hangTime": 34,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 152,
+          "passCount": 6,
+          "hangTime": 64,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 138,
+          "passCount": 5,
+          "hangTime": 142,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 184,
+          "passCount": 6,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "Floor clean up",
+          "time": 106
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 1867,
+      "totalDelayTime": 106,
+      "id": 6
+    },
+    {
+      "timestamp": 1772042013054,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Mike",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 181,
+          "passCount": 6,
+          "hangTime": 46,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 173,
+          "passCount": 5,
+          "hangTime": 132,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 151,
+          "passCount": 5,
+          "hangTime": 45,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 139,
+          "passCount": 5,
+          "hangTime": 37,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 140,
+          "passCount": 5,
+          "hangTime": 42,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 111,
+          "passCount": 4,
+          "hangTime": 37,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 103,
+          "passCount": 4,
+          "hangTime": 52,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 148,
+          "passCount": 5,
+          "hangTime": 58,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 118,
+          "passCount": 4,
+          "hangTime": 64,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 174,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 1969,
+      "totalDelayTime": 0,
+      "id": 5
     }
   ]
 }
