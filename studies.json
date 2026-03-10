@@ -1927,6 +1927,119 @@
       "totalStudyTime": 1969,
       "totalDelayTime": 0,
       "id": 5
+    },
+    {
+      "timestamp": 1773165524269,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 6030",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Levi",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 88,
+          "passCount": 1,
+          "hangTime": 88,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 101,
+          "passCount": 3,
+          "hangTime": 70,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 137,
+          "passCount": 4,
+          "hangTime": 110,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 167,
+          "passCount": 5,
+          "hangTime": 88,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 121,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "Shovel stopped after second pass to reset issues then the truck backed under to finish load. ",
+      "totalStudyTime": 978,
+      "totalDelayTime": 0,
+      "id": 3
+    },
+    {
+      "timestamp": 1773164477971,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Kevin",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 112,
+          "passCount": 4,
+          "hangTime": 20,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 150,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 323,
+      "totalDelayTime": 0,
+      "id": 2
+    },
+    {
+      "timestamp": 1773164073386,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992K",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Bender",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 198,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 205,
+      "totalDelayTime": 0,
+      "id": 1
     }
   ]
 }
