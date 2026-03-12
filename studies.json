@@ -2153,6 +2153,92 @@
       "totalStudyTime": 205,
       "totalDelayTime": 0,
       "id": 1
+    },
+    {
+      "timestamp": 1773341061702,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 6030",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Tyler ",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 143,
+          "passCount": 5,
+          "hangTime": 173,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 103,
+          "passCount": 4,
+          "hangTime": 257,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 110,
+          "passCount": 4,
+          "hangTime": 53,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 100,
+          "passCount": 4,
+          "hangTime": 48,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 108,
+          "passCount": 4,
+          "hangTime": 47,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 105,
+          "passCount": 4,
+          "hangTime": 42,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 99,
+          "passCount": 4,
+          "hangTime": 37,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 139,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "No trucks",
+          "time": 155
+        },
+        {
+          "type": "OTHER",
+          "note": "No trucks",
+          "time": 147
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 1657,
+      "totalDelayTime": 302,
+      "id": 5
     }
   ]
 }
