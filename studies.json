@@ -2239,6 +2239,186 @@
       "totalStudyTime": 1657,
       "totalDelayTime": 302,
       "id": 5
+    },
+    {
+      "timestamp": 1773867792509,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Don",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 52,
+          "passCount": 3,
+          "hangTime": 61,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 81,
+          "passCount": 3,
+          "hangTime": 38,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 96,
+          "passCount": 4,
+          "hangTime": 47,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 132,
+          "passCount": 4,
+          "hangTime": 5,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 93,
+          "passCount": 4,
+          "hangTime": 47,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 68,
+          "passCount": 3,
+          "hangTime": 458,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 66,
+          "passCount": 3,
+          "hangTime": 106,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 58,
+          "passCount": 3,
+          "hangTime": 87,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 92,
+          "passCount": 4,
+          "hangTime": 100,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 93,
+          "passCount": 4,
+          "hangTime": 106,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 18,
+          "passCount": 3,
+          "hangTime": 273,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 62,
+          "passCount": 3,
+          "hangTime": 47,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 61,
+          "passCount": 3,
+          "hangTime": 50,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 60,
+          "passCount": 3,
+          "hangTime": 378,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 64,
+          "passCount": 3,
+          "hangTime": 68,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 110,
+          "passCount": 4,
+          "hangTime": 73,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 94,
+          "passCount": 4,
+          "hangTime": 60,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 89,
+          "passCount": 3,
+          "hangTime": 88,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 79,
+          "passCount": 4,
+          "hangTime": 244,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 77,
+          "passCount": 4,
+          "hangTime": 103,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 96,
+          "passCount": 4,
+          "hangTime": 84,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 102,
+          "passCount": 4,
+          "hangTime": 49,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 88,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "992 in the new cut. Good material. Dozer trap feeding most of the time.  Most 3 pass are legit, a few may have been my being distracted",
+      "totalStudyTime": 4460,
+      "totalDelayTime": 0,
+      "id": 1
     }
   ]
 }
