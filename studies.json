@@ -2419,6 +2419,189 @@
       "totalStudyTime": 4460,
       "totalDelayTime": 0,
       "id": 1
+    },
+    {
+      "timestamp": 1774284538049,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992K",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Bald Mountain — Don",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 8,
+          "passCount": 1,
+          "hangTime": 60,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 118,
+          "passCount": 5,
+          "hangTime": 422,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 108,
+          "passCount": 6,
+          "hangTime": 494,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 112,
+          "passCount": 5,
+          "hangTime": 116,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 121,
+          "passCount": 5,
+          "hangTime": 125,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 115,
+          "passCount": 5,
+          "hangTime": 41,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 121,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "Loading out of crusher discharge.  Cameron on loader. He was 5-passing all the trucks. Reported round trip was 1 hour 4 minutes",
+      "totalStudyTime": 2009,
+      "totalDelayTime": 0,
+      "id": 3
+    },
+    {
+      "timestamp": 1773177450203,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "PC-600",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Don",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 153,
+          "passCount": 5,
+          "hangTime": 168
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 160,
+          "passCount": 5,
+          "hangTime": 223
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 154,
+          "passCount": 5,
+          "hangTime": 141
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 82,
+          "passCount": 4,
+          "hangTime": 26
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 138,
+          "passCount": 4,
+          "hangTime": 27
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 168,
+          "passCount": 4,
+          "hangTime": 26
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 137,
+          "passCount": 4,
+          "hangTime": 26
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 120,
+          "passCount": 4,
+          "hangTime": 35
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 169,
+          "passCount": 4,
+          "hangTime": 2
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 130,
+          "passCount": 4,
+          "hangTime": 35
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 117,
+          "passCount": 4,
+          "hangTime": 394
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 38,
+          "passCount": 0,
+          "hangTime": 0
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "Setting grade",
+          "time": 297
+        }
+      ],
+      "notes": "6030 Shovel",
+      "totalStudyTime": 2682,
+      "totalDelayTime": 297,
+      "id": 2
+    },
+    {
+      "timestamp": 1769021274999,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Don",
+      "loads": [],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 0,
+      "totalDelayTime": 0,
+      "id": 1
     }
   ]
 }
