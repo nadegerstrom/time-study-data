@@ -3032,6 +3032,52 @@
       "totalStudyTime": 38,
       "totalDelayTime": 13,
       "id": 1
+    },
+    {
+      "timestamp": 1775594656625,
+      "studyType": "loading",
+      "projectId": "1768705338737",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Strider",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 162,
+          "passCount": 5,
+          "hangTime": 128,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 136,
+          "passCount": 4,
+          "hangTime": 281,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 168,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "No trucks",
+          "time": 227
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 889,
+      "totalDelayTime": 227,
+      "id": 1
     }
   ]
 }
