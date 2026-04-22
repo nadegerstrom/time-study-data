@@ -3078,6 +3078,109 @@
       "totalStudyTime": 889,
       "totalDelayTime": 227,
       "id": 1
+    },
+    {
+      "timestamp": 1776879712889,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992-12",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Strider",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 104,
+          "passCount": 4,
+          "hangTime": 101,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 109,
+          "passCount": 4,
+          "hangTime": 44,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 4,
+          "hangTime": 61,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 110,
+          "passCount": 4,
+          "hangTime": 42,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 105,
+          "passCount": 4,
+          "hangTime": 87,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 102,
+          "passCount": 4,
+          "hangTime": 68,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 106,
+          "passCount": 4,
+          "hangTime": 46,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 107,
+          "passCount": 4,
+          "hangTime": 58,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 125,
+          "passCount": 5,
+          "hangTime": 46,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 109,
+          "passCount": 4,
+          "hangTime": 70,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 107,
+          "passCount": 4,
+          "hangTime": 40,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 108,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 1981,
+      "totalDelayTime": 0,
+      "id": 2
     }
   ]
 }
