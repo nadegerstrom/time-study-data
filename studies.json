@@ -3213,6 +3213,38 @@
       "totalStudyTime": 25,
       "totalDelayTime": 5,
       "id": 46
+    },
+    {
+      "timestamp": 1777046249369,
+      "studyType": "loading",
+      "projectId": "1777044490142",
+      "projectName": "BALD MOUNTAIN",
+      "jobNumber": "2601",
+      "equipment": "CAT 992K",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "test",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 23,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "STUDY INTERRUPTION",
+          "note": "",
+          "time": 5
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 25,
+      "totalDelayTime": 5,
+      "id": 46
     }
   ]
 }
