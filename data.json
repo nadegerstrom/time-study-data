@@ -1,42 +1,40 @@
 {
   "projects": [
     {
-      "id": "1768705338737",
-      "name": "RAIN",
-      "jobNumber": "2502",
+      "id": "1",
+      "name": "PROJECT #1",
+      "jobNumber": "1608",
       "loaders": [
-        "CAT 992D",
         "CAT 992G",
-        "CAT 992K",
-        "CAT 992-12",
-        "PC-460",
-        "PC-600",
-        "PC-650"
+        "CAT 988K"
       ],
       "trucks": [
-        "100 Ton",
-        "85 Ton",
-        "65 Ton"
+        "CAT 777D",
+        "KOM 785D"
       ]
     },
     {
-      "id": "1768705412932",
-      "name": "GOLD BAR",
-      "jobNumber": "2505",
+      "id": "2",
+      "name": "PROJECT #2",
+      "jobNumber": "2204",
       "loaders": [
-        "CAT 992D",
-        "CAT 992G",
-        "CAT 992K",
-        "CAT 992-12",
-        "PC-460",
-        "PC-600",
-        "PC-650",
-        "Cat 6030"
+        "PC-400"
       ],
       "trucks": [
-        "100 Ton",
-        "85 Ton",
-        "65 Ton"
+        "TRUCK #1",
+        "TRUCK #2"
+      ]
+    },
+    {
+      "id": "1777044490142",
+      "name": "BALD MOUNTAIN",
+      "jobNumber": "2601",
+      "loaders": [
+        "CAT 992G",
+        "CAT 992K"
+      ],
+      "trucks": [
+        "100 Ton"
       ]
     }
   ]
