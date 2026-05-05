@@ -3181,6 +3181,28 @@
       "totalStudyTime": 1981,
       "totalDelayTime": 0,
       "id": 2
+    },
+    {
+      "timestamp": 1778022073355,
+      "studyType": "truck",
+      "projectId": "1777045398117",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "100 Ton",
+      "hauledTrucks": [],
+      "name": "Hddhh",
+      "loads": [
+        {
+          "pit": "PICK",
+          "dump": "WASTE DUMP",
+          "cycleTime": 6
+        }
+      ],
+      "delays": [],
+      "notes": "",
+      "totalStudyTime": 12,
+      "totalDelayTime": 0,
+      "id": 1
     }
   ]
 }
