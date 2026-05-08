@@ -3203,6 +3203,52 @@
       "totalStudyTime": 12,
       "totalDelayTime": 0,
       "id": 1
+    },
+    {
+      "timestamp": 1778272622371,
+      "studyType": "loading",
+      "projectId": "1777045398117",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "Cat 6030",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Clint",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 14,
+          "passCount": 5,
+          "hangTime": 43,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 12,
+          "passCount": 4,
+          "hangTime": 30,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 14,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "FUEL",
+          "note": "",
+          "time": 19
+        }
+      ],
+      "notes": "",
+      "totalStudyTime": 121,
+      "totalDelayTime": 19,
+      "id": 47
     }
   ]
 }
