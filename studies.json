@@ -3249,6 +3249,238 @@
       "totalStudyTime": 121,
       "totalDelayTime": 19,
       "id": 47
+    },
+    {
+      "timestamp": 1779207879361,
+      "studyType": "loading",
+      "projectId": "1777045389283",
+      "projectName": "RAIN",
+      "jobNumber": "2502",
+      "equipment": "CAT 992G",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Don",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 85,
+          "passCount": 4,
+          "hangTime": 247,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 104,
+          "passCount": 4,
+          "hangTime": 46,
+          "note": "T-372 needs some coaching on efficiently getting under loader"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 120,
+          "passCount": 4,
+          "hangTime": 48,
+          "note": "T-321 good spot technique getting under loader"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 99,
+          "passCount": 4,
+          "hangTime": 44,
+          "note": "T-323 took longer to get under loader, not really efficient"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 114,
+          "passCount": 4,
+          "hangTime": 109,
+          "note": "Good spot, paying attention. T-373"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 69,
+          "passCount": 3,
+          "hangTime": 184,
+          "note": "T-318 85 ton truck.  Paying attention but not efficient at all getting underneath"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 99,
+          "passCount": 4,
+          "hangTime": 273,
+          "note": "T-336 not terrible"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 100,
+          "passCount": 4,
+          "hangTime": 319,
+          "note": "T-322 good job getting under loader "
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 91,
+          "passCount": 4,
+          "hangTime": 248,
+          "note": "T-334"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 115,
+          "passCount": 4,
+          "hangTime": 39,
+          "note": "T-372"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 119,
+          "passCount": 4,
+          "hangTime": 56,
+          "note": "T-336"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 111,
+          "passCount": 4,
+          "hangTime": 89,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 77,
+          "passCount": 3,
+          "hangTime": 173,
+          "note": "T-318"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 106,
+          "passCount": 4,
+          "hangTime": 64,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 98,
+          "passCount": 4,
+          "hangTime": 150,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 100,
+          "passCount": 4,
+          "hangTime": 0,
+          "note": ""
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "No delay",
+          "time": 18
+        }
+      ],
+      "notes": "Joe had pretty decent material & floor to work with.  He was back in a corner forcing the trucks to swing behind him and turn out to their left",
+      "totalStudyTime": 3719,
+      "totalDelayTime": 18,
+      "id": 5
+    },
+    {
+      "timestamp": 1774292415472,
+      "studyType": "loading",
+      "projectId": "1768705412932",
+      "projectName": "GOLD BAR",
+      "jobNumber": "2505",
+      "equipment": "CAT 992K",
+      "hauledTrucks": [
+        "100 Ton"
+      ],
+      "name": "Bald Mtn — Don",
+      "loads": [
+        {
+          "truck": "100 Ton",
+          "loadTime": 113,
+          "passCount": 5,
+          "hangTime": 889,
+          "note": ""
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 117,
+          "passCount": 5,
+          "hangTime": 111,
+          "note": "Truck T-331 got under loader efficiently. "
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 124,
+          "passCount": 5,
+          "hangTime": 118,
+          "note": "T-316 Sherry, not terrible"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 122,
+          "passCount": 5,
+          "hangTime": 763,
+          "note": "T-328 efficient spotting"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 136,
+          "passCount": 5,
+          "hangTime": 361,
+          "note": "T-329 good efficient spotting"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 131,
+          "passCount": 5,
+          "hangTime": 373,
+          "note": "T-330 new driver, younger guy, very hesitant to back under loader. Just creeps back at idle"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 123,
+          "passCount": 5,
+          "hangTime": 210,
+          "note": "T-317 good clean spotting. Dwayne Crain"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 120,
+          "passCount": 5,
+          "hangTime": 592,
+          "note": "T-315 good spotting"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 129,
+          "passCount": 5,
+          "hangTime": 560,
+          "note": "T-331 efficient spot; Ethan"
+        },
+        {
+          "truck": "100 Ton",
+          "loadTime": 148,
+          "passCount": 5,
+          "hangTime": 0,
+          "note": "T-328 Brittany; moderately efficient"
+        }
+      ],
+      "delays": [
+        {
+          "type": "OTHER",
+          "note": "Moving locations to bottom stockpile",
+          "time": 98
+        }
+      ],
+      "notes": "Started study with Cameron loading out of crusher discharge, cleaning it up.  Then moved to stockpile.  5-passing trucks for 56 bcy loads. Alvaro on T-329 ",
+      "totalStudyTime": 5287,
+      "totalDelayTime": 98,
+      "id": 4
     }
   ]
 }
